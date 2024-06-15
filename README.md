@@ -1,2 +1,3 @@
-# Programming-with-Python
-Face Recognition By Python
+# Face Recognition By Python
+Face recognition systems are a vital area of research within facial image processing applications, gaining prominence due to their ease of use compared to other biometric systems like fingerprint or iris recognition. These systems are especially useful in metropolitan settings for crime prevention, video surveillance, and person verification. However, they present complex challenges due to varying illumination, occlusion, and imaging conditions. Combining face detection and recognition techniques, these systems identify and classify facial features such as eyes, eyebrows, nose, and mouth. Despite advancements, challenges remain in terms of brightness, tilt orientation, and environmental influences. Our project aims to develop a robust facial recognition software to efficiently print out student information, addressing these challenges with innovative solutions.
+
